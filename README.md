@@ -1,1 +1,2 @@
-# This repo is for my personal portfolio which displays my Linkedin, a copy of my resume, and my github account!
+# PERSONAL PORTFOLIO REPO
+In this repo, written in CSS, I have deployed my portfolio containing my Gihtub account link, resume, and LinkedIn on Github Actions!
